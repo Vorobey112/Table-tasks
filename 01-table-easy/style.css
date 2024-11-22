@@ -1,0 +1,13 @@
+th{
+    margin: 6px 12px;
+    border: 1px solid #dfdfe2;
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase;
+    background-color: #dfdfe2;
+}
+td{
+    margin: 6px 12px;
+}

@@ -1,0 +1,45 @@
+table {
+  background-color: #f6f6f6;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #999;
+}
+
+td{
+  padding: 20px;
+  border: 1px solid #999;
+  color: #000000;
+  text-align: left;
+  
+}
+
+.title-black{
+  background-color: #000000;
+}
+
+.title-green{
+  background: rgb(42, 165, 136);
+  color: #fff;
+}
+th {
+  background: rgb(42, 165, 136);
+  color: white;
+  padding: 6px 12px;
+  border: 1px solid #999;
+  text-align: left;
+}
+
+.primary {
+  background-color: #000000;
+}
+
+tfoot > tr  {
+  background: black;
+  color: white;
+}
+
+tbody > tr:hover {
+  background-color: #b98ee6;
+}
